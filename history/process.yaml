@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSSM-SBD12-05-WAVSSA000-telemetered-wavss_a_dcl_motion
 data_stream: CE04OSSM-SBD12-05-WAVSSA000-telemetered-wavss_a_dcl_motion
 end_date: '2022-01-03T17:23:35.699Z'
-last_updated: '2022-01-22T04:18:11.476979Z'
+last_updated: '2022-01-22T04:24:25.829151'
 start_date: '2016-05-16T06:23:34.440Z'
-status: pending
+status: success
